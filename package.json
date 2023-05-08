@@ -1,0 +1,14 @@
+{
+  "name": "expressbysharpner",
+  "version": "1.0.0",
+  "description": "these npm for express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Belal\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
